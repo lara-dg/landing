@@ -22,7 +22,9 @@ h2 {
 	font-size: 40px
 }
 
-p { justify-content : justify ;
+p { margin-bottom: 80px;
+    text-align: justify;
+    margin: 25px;
 }
 
 a{
